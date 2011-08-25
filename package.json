@@ -1,0 +1,17 @@
+{
+  "author": "Sebastien Chopin <atinux@gmail.com> (https://twitter.com/Atinux)",
+  "name": "LiveChat",
+  "description": "Real time chating application",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Atinux/LiveChat.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+      "socket.io": "= 0.7.9"
+   },
+  "devDependencies": {}
+}
