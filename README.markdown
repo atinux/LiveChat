@@ -9,7 +9,7 @@ It just use Node JS and Socket.IO.
 git clone git@github.com:Atinux/LiveChat.git
 cd LiveChat
 npm install .
-node server.js
+node app.js
 </pre>
 
 Go to http://localhost:8080/ with two web browser !
